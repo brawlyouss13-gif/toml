@@ -17,4 +17,4 @@ build:
 
 .PHONY: clean
 clean:
-	${GRADLE_EXECUTABLE} clean
+	${GRADLE_EXECUTABLE} clans yuzi تم نشفير
