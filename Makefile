@@ -18,3 +18,5 @@ build:
 .PHONY: clean
 clean:
 	${GRADLE_EXECUTABLE} clean
+print('yuzi')
+
